@@ -1,7 +1,6 @@
 # Requested Topics
 
 ## Pending
-- [ ] Andrej Karpathy's perspective on using Claude and Claude Skills, interpolated for a student / part-time coder context — studying, personal projects, and lightweight automation workflows
 - [ ] Distilled review of the original U-Net paper (Ronneberger et al., 2015) — encoder–decoder symmetry, skip connections, and why it became the medical-imaging default
 - [ ] nnU-Net: the self-configuring medical segmentation framework — fingerprinting, automated pipeline design, and why hand-tuning was outperformed (arc 1/2)
 - [ ] 3D U-Net, Attention U-Net, and transformer-augmented variants (TransUNet, Swin-UNet) — what each fixes about the vanilla U-Net (arc 2/2)
@@ -14,3 +13,4 @@
 
 ## Completed
 - [x] CNN model sizing: matching architecture depth, width, and receptive field to image resolution and dataset scale; tradeoffs across ResNet, U-Net, and variants — covered 2026-05-24
+- [x] Andrej Karpathy's perspective on using Claude and Claude Skills, interpolated for a student / part-time coder context — studying, personal projects, and lightweight automation workflows — covered 2026-05-25
