@@ -2,3 +2,4 @@
 2026-05-24T00:00:00Z — status=200 — topic="CNN model sizing: depth, width, receptive field, and dataset scale across ResNet and U-Net variants" [resend]
 2026-05-25T05:11:24Z — status=200 — topic="Andrej Karpathy's Perspective on Agentic Coding and the LLM Wiki: A Student and Part-Time Coder's Playbook"
 2026-05-26T05:08:41Z — status=200 — topic="The Original U-Net: Encoder–Decoder Symmetry, Skip Connections, and Why It Became the Medical-Imaging Default"
+2026-05-27T05:08:20Z — status=200 — topic="nnU-Net: Dataset Fingerprinting, Automated Pipeline Design, and Why Hand-Tuning Was Outperformed (arc 1/2)"
