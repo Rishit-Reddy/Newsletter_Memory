@@ -8,3 +8,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-05-26 — The Original U-Net: Encoder–Decoder Symmetry, Skip Connections, and Why It Became the Medical-Imaging Default — S
 2026-05-27 — nnU-Net: Dataset Fingerprinting, Automated Pipeline Design, and Why Hand-Tuning Was Outperformed — arc 1/2
 2026-05-28 — nnU-Net Part II: Training Protocol, Inference Strategy, and What Automated Baselines Revealed About the Field — arc 2/2
+2026-08-24 — 3D U-Net, Attention U-Net, and Transformer-Augmented U-Net Variants (TransUNet, Swin-UNet): What Each Fixes About the Vanilla Design — arc 2/2
