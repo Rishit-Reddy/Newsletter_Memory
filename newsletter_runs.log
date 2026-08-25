@@ -5,3 +5,4 @@
 2026-05-27T05:08:20Z — status=200 — topic="nnU-Net: Dataset Fingerprinting, Automated Pipeline Design, and Why Hand-Tuning Was Outperformed (arc 1/2)"
 2026-05-28T05:08:20Z — status=200 — topic="nnU-Net Part II: Training Protocol, Inference Strategy, and What Automated Baselines Revealed About the Field"
 2026-08-24T05:10:00Z — status=200 — topic="3D U-Net, Attention U-Net, and Transformer-Augmented U-Net Variants (TransUNet, Swin-UNet): What Each Fixes About the Vanilla Design"
+2026-08-25T05:19:21Z — status=200 — topic="Image Registration in the Modern Medical-Imaging Stack: Clinical Roles, Problem Families, and Downstream Dependencies"
