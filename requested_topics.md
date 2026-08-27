@@ -1,7 +1,7 @@
 # Requested Topics
 
 ## Pending
-- [ ] Classical image registration fundamentals — rigid, affine, and deformable transforms; similarity metrics (SSD, NCC, mutual information); B-spline free-form deformations (arc 1/2)
+- [ ] Classical image registration fundamentals — rigid, affine, and deformable transforms; similarity metrics (SSD, NCC, mutual information); B-spline free-form deformations (arc 1/2) (in progress, day 1/2)
 - [ ] Learning-based image registration — VoxelMorph and deep diffeomorphic frameworks, end-to-end training with spatial transformer networks (arc 2/2)
 - [ ] Object detection lineage part I — R-CNN, Fast R-CNN, Faster R-CNN; anchor mechanics, region proposal networks, and the two-stage paradigm (arc 1/2)
 - [ ] Object detection lineage part II — one-stage detectors (RetinaNet, FCOS) and DETR's set-prediction paradigm with bipartite matching (arc 2/2)
