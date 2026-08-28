@@ -10,3 +10,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-05-28 — nnU-Net Part II: Training Protocol, Inference Strategy, and What Automated Baselines Revealed About the Field — arc 2/2
 2026-08-24 — 3D U-Net, Attention U-Net, and Transformer-Augmented U-Net Variants (TransUNet, Swin-UNet): What Each Fixes About the Vanilla Design — arc 2/2
 2026-08-26 — Image Registration in the Modern Medical-Imaging Stack: Clinical Necessity, Research Scope, and Downstream Dependencies — S
+2026-08-28 — Classical Image Registration Fundamentals: Geometric Transformations, Similarity Measures, and Deformable Models — arc 1/2
