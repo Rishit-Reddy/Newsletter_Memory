@@ -11,3 +11,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-08-24 — 3D U-Net, Attention U-Net, and Transformer-Augmented U-Net Variants (TransUNet, Swin-UNet): What Each Fixes About the Vanilla Design — arc 2/2
 2026-08-26 — Image Registration in the Modern Medical-Imaging Stack: Clinical Necessity, Research Scope, and Downstream Dependencies — S
 2026-08-28 — Classical Image Registration Fundamentals: Geometric Transformations, Similarity Measures, and Deformable Models — arc 1/2
+2026-08-29 — Learning-Based Image Registration: VoxelMorph, Diffeomorphic Deformations, and End-to-End Training with Spatial Transformer Networks — arc 2/2
