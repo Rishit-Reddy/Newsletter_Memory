@@ -1,7 +1,7 @@
 # Requested Topics
 
 ## Pending
-- [ ] Object detection lineage part I — R-CNN, Fast R-CNN, Faster R-CNN; anchor mechanics, region proposal networks, and the two-stage paradigm (arc 1/2)
+- [ ] Object detection lineage part I — R-CNN, Fast R-CNN, Faster R-CNN; anchor mechanics, region proposal networks, and the two-stage paradigm (arc 1/2) (in progress, day 1/2)
 - [ ] Object detection lineage part II — one-stage detectors (RetinaNet, FCOS) and DETR's set-prediction paradigm with bipartite matching (arc 2/2)
 - [ ] Distilled review of the Chinchilla scaling laws (Hoffmann et al., 2022) — compute-optimal training and what carries over to Vision Transformer scaling
 
