@@ -13,3 +13,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-08-28 — Classical Image Registration Fundamentals: Geometric Transformations, Similarity Measures, and Deformable Models — arc 1/2
 2026-08-29 — Learning-Based Image Registration: VoxelMorph, Diffeomorphic Deformations, and End-to-End Training with Spatial Transformer Networks — arc 2/2
 2026-08-30 — Object Detection Lineage Part I: R-CNN, Fast R-CNN, Faster R-CNN — Anchor Mechanics, Region Proposal Networks, and the Two-Stage Paradigm — arc 1/2
+2026-08-31 — Object Detection Lineage Part II: One-Stage Detectors (RetinaNet, FCOS) and DETR's Set-Prediction Paradigm with Bipartite Matching — arc 2/2
