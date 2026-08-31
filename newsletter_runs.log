@@ -9,3 +9,4 @@
 2026-08-28T05:18:10Z — status=200 — topic="Classical Image Registration Fundamentals: Geometric Transformations, Similarity Measures, and Deformable Models"
 2026-08-29T05:07:42Z — status=200 — topic="Learning-Based Image Registration: VoxelMorph, Diffeomorphic Deformations, and End-to-End Training with Spatial Transformer Networks"
 2026-08-30T05:08:16Z — status=200 — topic="Object Detection Lineage Part I: R-CNN, Fast R-CNN, Faster R-CNN — Anchor Mechanics, Region Proposal Networks, and the Two-Stage Paradigm (arc 1/2)"
+2026-08-31T05:20:52Z — status=200 — topic="Object Detection Lineage Part II: One-Stage Detectors (RetinaNet, FCOS) and DETR's Set-Prediction Paradigm with Bipartite Matching"
