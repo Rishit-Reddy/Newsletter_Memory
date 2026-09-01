@@ -1,9 +1,9 @@
 # Requested Topics
 
 ## Pending
-- [ ] Distilled review of the Chinchilla scaling laws (Hoffmann et al., 2022) — compute-optimal training and what carries over to Vision Transformer scaling
 
 ## Completed
+- [x] Distilled review of the Chinchilla scaling laws (Hoffmann et al., 2022) — compute-optimal training and what carries over to Vision Transformer scaling — covered 2026-09-01
 - [x] Object detection lineage part I — R-CNN, Fast R-CNN, Faster R-CNN; anchor mechanics, region proposal networks, and the two-stage paradigm (arc 1/2) — covered 2026-08-30
 - [x] Object detection lineage part II — one-stage detectors (RetinaNet, FCOS) and DETR's set-prediction paradigm with bipartite matching (arc 2/2) — covered 2026-08-31
 - [x] Classical image registration fundamentals — rigid, affine, and deformable transforms; similarity metrics (SSD, NCC, mutual information); B-spline free-form deformations (arc 1/2) — covered 2026-08-28
