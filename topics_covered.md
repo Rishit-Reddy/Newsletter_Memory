@@ -16,3 +16,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-08-31 — Object Detection Lineage Part II: One-Stage Detectors (RetinaNet, FCOS) and DETR's Set-Prediction Paradigm with Bipartite Matching — arc 2/2
 2026-09-01 — Chinchilla Scaling Laws: Compute-Optimal Training and Its Implications for Vision Transformers — S
 2026-09-02 — Contrastive Self-Supervised Learning in Vision: SimCLR, MoCo, and the InfoNCE Objective — arc 1/2
+2026-09-03 — Contrastive Self-Supervised Learning in Vision Part II: Non-Contrastive Methods, Collapse Prevention, and the Emergence of DINO — arc 2/2
