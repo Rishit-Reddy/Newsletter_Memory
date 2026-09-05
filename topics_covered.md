@@ -18,3 +18,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-02 — Contrastive Self-Supervised Learning in Vision: SimCLR, MoCo, and the InfoNCE Objective — arc 1/2
 2026-09-03 — Contrastive Self-Supervised Learning in Vision Part II: Non-Contrastive Methods, Collapse Prevention, and the Emergence of DINO — arc 2/2
 2026-09-04 — Masked Image Modeling: The Reconstruction Paradigm, MAE, and What High-Ratio Masking Reveals About Vision Representations — S
+2026-09-05 — DINOv2: Curated Data, Unified Self-Supervised Objectives, and Universal Vision Features — S
