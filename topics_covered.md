@@ -19,3 +19,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-03 — Contrastive Self-Supervised Learning in Vision Part II: Non-Contrastive Methods, Collapse Prevention, and the Emergence of DINO — arc 2/2
 2026-09-04 — Masked Image Modeling: The Reconstruction Paradigm, MAE, and What High-Ratio Masking Reveals About Vision Representations — S
 2026-09-05 — DINOv2: Curated Data, Unified Self-Supervised Objectives, and Universal Vision Features — S
+2026-09-06 — CLIP and Vision-Language Pretraining: Cross-Modal Contrastive Learning, Zero-Shot Transfer, and Why Language Is a Better Supervisor Than Labels — S
