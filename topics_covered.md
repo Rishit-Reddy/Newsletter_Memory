@@ -23,3 +23,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-07 — Segment Anything: Promptable Segmentation, the SA-1B Data Engine, and Foundation Models for Spatial Prediction — S
 2026-09-08 — Denoising Diffusion Probabilistic Models: The Forward Process, Score Matching, and Learning to Reverse Gaussian Corruption — arc 1/2
 2026-09-09 — Denoising Diffusion Probabilistic Models Part II: DDIM, Classifier-Free Guidance, and Latent Diffusion — arc 2/2
+2026-09-10 — Flow Matching and Rectified Flow: Continuous Normalizing Flows, Optimal Transport, and the Modern Generative Transport Framework — S
