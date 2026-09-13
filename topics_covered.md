@@ -25,3 +25,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-09 — Denoising Diffusion Probabilistic Models Part II: DDIM, Classifier-Free Guidance, and Latent Diffusion — arc 2/2
 2026-09-11 — Neural Radiance Fields: Implicit Scene Representation, Volume Rendering, and the Frequency Problem in Coordinate Networks — arc 1/2
 2026-09-12 — 3D Gaussian Splatting: Explicit Scene Primitives, Adaptive Densification, and the Road to Real-Time Novel View Synthesis — arc 2/2
+2026-09-13 — Video Vision Transformers: Tube Tokenization, Temporal Attention, and the Factorization Question — arc 1/2
