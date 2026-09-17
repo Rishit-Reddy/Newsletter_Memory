@@ -27,3 +27,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-12 — 3D Gaussian Splatting: Explicit Scene Primitives, Adaptive Densification, and the Road to Real-Time Novel View Synthesis — arc 2/2
 2026-09-15 — Panoptic Segmentation: Unifying Instance and Semantic Prediction through Masked Attention in Mask2Former — S
 2026-09-16 — Video Transformers and Temporal Self-Supervised Learning: Divided Attention, Tube Masking, and What Video Teaches Vision Models That Images Cannot — S
+2026-09-17 — Knowledge Distillation in Deep Vision Models: Temperature Scaling, Feature Mimicking, and the Relational Transfer Perspective — S
