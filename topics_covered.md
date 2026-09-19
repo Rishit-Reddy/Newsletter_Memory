@@ -29,3 +29,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-16 — Video Transformers and Temporal Self-Supervised Learning: Divided Attention, Tube Masking, and What Video Teaches Vision Models That Images Cannot — S
 2026-09-17 — Knowledge Distillation in Deep Vision Models: Temperature Scaling, Feature Mimicking, and the Relational Transfer Perspective — S
 2026-09-18 — Neural Radiance Fields Part II: Hierarchical Sampling, Mip-NeRF's Anti-Aliasing, and the Multiresolution Hash Encoding That Made Training Instant — arc 2/2
+2026-09-19 — Semantic Segmentation: Fully Convolutional Networks, Dilated Convolutions, and the DeepLab Family — S
