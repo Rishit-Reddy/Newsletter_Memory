@@ -26,3 +26,4 @@
 2026-09-17T05:10:00Z — status=200 — topic="Knowledge Distillation in Deep Vision Models: Temperature Scaling, Feature Mimicking, and the Relational Transfer Perspective"
 2026-09-18T05:09:06Z — status=200 — topic="Neural Radiance Fields Part II: Hierarchical Sampling, Mip-NeRF's Anti-Aliasing, and the Multiresolution Hash Encoding That Made Training Instant"
 2026-09-19T05:07:33Z — status=200 — topic="Semantic Segmentation: Fully Convolutional Networks, Dilated Convolutions, and the DeepLab Family"
+2026-09-20T05:20:17Z — status=200 — topic="Instance Segmentation: Mask R-CNN's Parallel Head Design, RoIAlign's Sub-Pixel Correction, and the Cascade Refinement Strategy"
