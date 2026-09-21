@@ -31,3 +31,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-18 — Neural Radiance Fields Part II: Hierarchical Sampling, Mip-NeRF's Anti-Aliasing, and the Multiresolution Hash Encoding That Made Training Instant — arc 2/2
 2026-09-19 — Semantic Segmentation: Fully Convolutional Networks, Dilated Convolutions, and the DeepLab Family — S
 2026-09-20 — Instance Segmentation: Mask R-CNN's Parallel Head Design, RoIAlign's Sub-Pixel Correction, and the Cascade Refinement Strategy — S
+2026-09-21 — Open-Vocabulary Detection and Grounding: Replacing Fixed Classifiers with Language Embeddings — S
