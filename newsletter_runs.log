@@ -29,3 +29,4 @@
 2026-09-20T05:20:17Z — status=200 — topic="Instance Segmentation: Mask R-CNN's Parallel Head Design, RoIAlign's Sub-Pixel Correction, and the Cascade Refinement Strategy"
 2026-09-21T05:20:26Z — status=200 — topic="Open-Vocabulary Detection and Grounding: Replacing Fixed Classifiers with Language Embeddings"
 2026-09-22T05:19:51Z — status=200 — topic="Multimodal Language Models: Flamingo, LLaVA, InstructBLIP"
+2026-09-23T05:18:34Z — status=200 — topic="Swin Transformer: Window-Based Self-Attention, Shifted Windows, and the Hierarchical Architecture That Unified Backbone Design"
