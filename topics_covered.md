@@ -30,4 +30,8 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-17 — Knowledge Distillation in Deep Vision Models: Temperature Scaling, Feature Mimicking, and the Relational Transfer Perspective — S
 2026-09-18 — Neural Radiance Fields Part II: Hierarchical Sampling, Mip-NeRF's Anti-Aliasing, and the Multiresolution Hash Encoding That Made Training Instant — arc 2/2
 2026-09-19 — Semantic Segmentation: Fully Convolutional Networks, Dilated Convolutions, and the DeepLab Family — S
-2026-09-24 — Instance Segmentation: Mask R-CNN's Parallel Head Design, RoIAlign's Sub-Pixel Correction, and the Cascade Refinement Strategy — S
+2026-09-20 — Instance Segmentation: Mask R-CNN's Parallel Head Design, RoIAlign's Sub-Pixel Correction, and the Cascade Refinement Strategy — S
+2026-09-21 — Open-Vocabulary Detection and Grounding: Replacing Fixed Classifiers with Language Embeddings — S
+2026-09-22 — Multimodal Language Models: Flamingo's Cross-Attention, LLaVA's Projection Simplicity, and InstructBLIP's Instruction-Conditioned Q-Former — S
+2026-09-23 — Swin Transformer: Window-Based Self-Attention, Shifted Windows, and the Hierarchical Architecture That Unified Backbone Design — S
+2026-09-24 — ConvNeXt: A Systematic Modernization of CNNs with ViT Design Decisions and What It Revealed About the Inductive Bias Debate — S
