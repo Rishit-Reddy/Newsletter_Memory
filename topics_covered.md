@@ -35,3 +35,4 @@ Format: `YYYY-MM-DD — topic — S|arc N/M`
 2026-09-22 — Multimodal Language Models: Flamingo's Cross-Attention, LLaVA's Projection Simplicity, and InstructBLIP's Instruction-Conditioned Q-Former — S
 2026-09-23 — Swin Transformer: Window-Based Self-Attention, Shifted Windows, and the Hierarchical Architecture That Unified Backbone Design — S
 2026-09-24 — ConvNeXt: A Systematic Modernization of CNNs with ViT Design Decisions and What It Revealed About the Inductive Bias Debate — S
+2026-09-25 — FlashAttention: IO-Aware Exact Attention, Tiling, and the Hardware-Algorithm Co-Design That Made Long-Context Transformers Practical — S
